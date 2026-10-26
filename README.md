@@ -35,6 +35,12 @@ Lecture flash de syllabes, pseudo-mots et mots au TNI, au clic ou en automatique
 Un générateur de fiches de calcul mental dont les réponses révèlent un dessin en pixel art, avec corrigé, en Word ou en PDF.
 → https://eautsu.github.io/pixel_art_CE1/
 
+## 🛠️ Philosophie de développement
+
+* **De la classe au code :** Conception en cycles courts (Agile), directement guidée par les retours et les besoins réels de mes élèves de CE1.
+* **Simplicité cognitive :** Ergonomie fluide et épurée pour garantir une autonomie maximale des élèves sur écran et TNI.
+* **Souveraineté & Respect de la vie privée :** Applications 100 % statiques exécutées côté client, garantissant l'absence totale de collecte de données personnelles.
+
 ## ♻️ Licence
 
 Tous les contenus sont sous licence **CC BY-NC-SA 4.0** : libres à utiliser, adapter et partager en classe — à condition de créditer l'auteure et de ne pas en faire d'usage commercial.
